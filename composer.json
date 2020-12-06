@@ -1,0 +1,15 @@
+{
+    "name": "ramphor/gift-products",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ramphor/plugin-core": "dev-master"
+    }
+}
