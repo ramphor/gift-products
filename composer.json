@@ -11,5 +11,10 @@
     "minimum-stability": "dev",
     "require": {
         "ramphor/plugin-core": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ramphor\\GiftProducts\\": "includes/"
+        }
     }
 }
